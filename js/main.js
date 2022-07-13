@@ -78,5 +78,8 @@
 
 
 // JavaScript POSITIVE_INFINITY
-let x = Number.POSITIVE_INFINITY;
-let y = 1 / 0;
+// let x = Number.POSITIVE_INFINITY;
+// let y = 1 / 0;
+
+// ### JavaScript NEGATIVE_INFINITY
+let x = Number.NEGATIVE_INFINITY;

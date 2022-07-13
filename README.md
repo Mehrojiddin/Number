@@ -72,3 +72,7 @@ MAX_VALUE returns the largest possible number in JavaScript.
 
 
 ### JavaScript POSITIVE_INFINITY
+
+
+
+### JavaScript NEGATIVE_INFINITY
