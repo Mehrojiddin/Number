@@ -82,4 +82,10 @@
 // let y = 1 / 0;
 
 // ### JavaScript NEGATIVE_INFINITY
-let x = Number.NEGATIVE_INFINITY;
+// let x = Number.NEGATIVE_INFINITY;
+
+
+// JavaScript NaN - Not a Number
+let x = Number.NaN;
+
+let y = 100 / "Apple";
