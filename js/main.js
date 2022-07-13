@@ -40,13 +40,16 @@
 
 
 // The Number() Method
-Number(true);
-Number(false);
-Number("10");
-Number("  10");
-Number("10  ");
-Number(" 10  ");
-Number("10.33");
-Number("10,33");
-Number("10 33");
-Number("John");
+// Number(true);
+// Number(false);
+// Number("10");
+// Number("  10");
+// Number("10  ");
+// Number(" 10  ");
+// Number("10.33");
+// Number("10,33");
+// Number("10 33");
+// Number("John");
+
+// The Number() Method Used on Dates
+Number(new Date("1970-01-01"))

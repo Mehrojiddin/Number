@@ -47,3 +47,7 @@ parseInt()	Parses its argument and returns an integer
 Number() can be used to convert JavaScript variables to numbers:
 
 
+### The Number() Method Used on Dates
+Number() can also convert a date to a number.
+
+
