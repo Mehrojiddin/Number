@@ -57,3 +57,15 @@ parseInt() parses a string and returns a whole number. Spaces are allowed. Only 
 ### The parseFloat() Method
 parseFloat() parses a string and returns a number. Spaces are allowed. Only the first number is returned:
 
+### Number Properties
+
+Property	        Description
+MAX_VALUE	        Returns the largest number possible in JavaScript
+MIN_VALUE	        Returns the smallest number possible in JavaScript
+POSITIVE_INFINITY	Represents infinity (returned on overflow)
+NEGATIVE_INFINITY	Represents negative infinity (returned on overflow)
+NaN	                Represents a "Not-a-Number" value
+
+
+### JavaScript MIN_VALUE and MAX_VALUE
+MAX_VALUE returns the largest possible number in JavaScript.

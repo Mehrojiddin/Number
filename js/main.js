@@ -67,8 +67,11 @@
 
 
 // The parseFloat() Method
-parseFloat("10");
-parseFloat("10.33");
-parseFloat("10 20 30");
-parseFloat("10 years");
-parseFloat("years 10");
+// parseFloat("10");
+// parseFloat("10.33");
+// parseFloat("10 20 30");
+// parseFloat("10 years");
+// parseFloat("years 10");
+
+// JavaScript MIN_VALUE and MAX_VALUE
+let x = Number.MAX_VALUE;
