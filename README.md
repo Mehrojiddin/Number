@@ -82,3 +82,11 @@ MAX_VALUE returns the largest possible number in JavaScript.
 NaN is a JavaScript reserved word indicating that a number is not a legal number.
 
 Trying to do arithmetic with a non-numeric string will result in NaN (Not a Number):
+
+
+### Number Properties Cannot be Used on Variables
+Number properties belongs to the JavaScript's number object wrapper called Number.
+
+These properties can only be accessed as Number.MAX_VALUE.
+
+Using myNumber.MAX_VALUE, where myNumber is a variable, expression, or value, will return undefined:

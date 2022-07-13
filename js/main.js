@@ -86,6 +86,10 @@
 
 
 // JavaScript NaN - Not a Number
-let x = Number.NaN;
+// let x = Number.NaN;
 
-let y = 100 / "Apple";
+// let y = 100 / "Apple";
+
+// Number Properties Cannot be Used on Variables
+let x = 6;
+x.MAX_VALUE
