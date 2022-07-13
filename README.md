@@ -69,3 +69,6 @@ NaN	                Represents a "Not-a-Number" value
 
 ### JavaScript MIN_VALUE and MAX_VALUE
 MAX_VALUE returns the largest possible number in JavaScript.
+
+
+### JavaScript POSITIVE_INFINITY

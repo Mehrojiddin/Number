@@ -74,4 +74,9 @@
 // parseFloat("years 10");
 
 // JavaScript MIN_VALUE and MAX_VALUE
-let x = Number.MAX_VALUE;
+// let x = Number.MAX_VALUE;
+
+
+// JavaScript POSITIVE_INFINITY
+let x = Number.POSITIVE_INFINITY;
+let y = 1 / 0;
