@@ -17,8 +17,16 @@
 
 
 // The toFixed() Method
+// let x = 9.656;
+// x.toFixed(0);
+// x.toFixed(2);
+// x.toFixed(4);
+// x.toFixed(6);
+
+
+// The toPrecision() Method
 let x = 9.656;
-x.toFixed(0);
-x.toFixed(2);
-x.toFixed(4);
-x.toFixed(6);
+x.toPrecision();
+x.toPrecision(2);
+x.toPrecision(4);
+x.toPrecision(6);
