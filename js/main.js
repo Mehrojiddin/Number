@@ -33,7 +33,20 @@
 
 
 // The valueOf() Method
-let x = 123;
-x.valueOf();
-(123).valueOf();
-(100 + 23).valueOf();
+// let x = 123;
+// x.valueOf();
+// (123).valueOf();
+// (100 + 23).valueOf();
+
+
+// The Number() Method
+Number(true);
+Number(false);
+Number("10");
+Number("  10");
+Number("10  ");
+Number(" 10  ");
+Number("10.33");
+Number("10,33");
+Number("10 33");
+Number("John");

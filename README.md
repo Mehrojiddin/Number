@@ -25,3 +25,25 @@ toPrecision() returns a string, with a number written with a specified length:
 valueOf() returns a number as a number.
 
 
+# Converting Variables to Numbers
+There are 3 JavaScript methods that can be used to convert variables to numbers:
+
+The Number() method
+The parseInt() method
+The parseFloat() method
+These methods are not number methods, but global JavaScript methods.
+
+# Global JavaScript Methods
+JavaScript global methods can be used on all JavaScript data types.
+
+These are the most relevant methods, when working with numbers:
+
+Method	Description
+Number()	Returns a number, converted from its argument.
+parseFloat()	Parses its argument and returns a floating point number
+parseInt()	Parses its argument and returns an integer
+
+### The Number() Method
+Number() can be used to convert JavaScript variables to numbers:
+
+
