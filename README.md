@@ -54,3 +54,6 @@ Number() can also convert a date to a number.
 ### The parseInt() Method
 parseInt() parses a string and returns a whole number. Spaces are allowed. Only the first number is returned:
 
+### The parseFloat() Method
+parseFloat() parses a string and returns a number. Spaces are allowed. Only the first number is returned:
+
