@@ -19,3 +19,9 @@ toFixed() returns a string, with the number written with a specified number of d
 
 ## The toPrecision() Method
 toPrecision() returns a string, with a number written with a specified length:
+
+
+## The valueOf() Method
+valueOf() returns a number as a number.
+
+
