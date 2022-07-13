@@ -8,3 +8,11 @@ But with JavaScript, methods and properties are also available to primitive valu
 The toString() method returns a number as a string.
 
 All number methods can be used on any type of numbers (literals, variables, or expressions):
+
+## The toExponential() Method
+toExponential() returns a string, with a number rounded and written using exponential notation.
+
+A parameter defines the number of characters behind the decimal point:
+
+## The toFixed() Method
+toFixed() returns a string, with the number written with a specified number of decimals:
